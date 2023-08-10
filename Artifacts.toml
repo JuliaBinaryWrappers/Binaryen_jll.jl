@@ -1,0 +1,288 @@
+[[Binaryen]]
+arch = "aarch64"
+git-tree-sha1 = "e589d7ebcac4f8ef9d4c5e01903d4b2d8fe4c769"
+os = "macos"
+
+    [[Binaryen.download]]
+    sha256 = "eddf4c4a290ebfb5ee56b7584ce8ecce26820bbbd11b5c53c398e70cab1a52d7"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.aarch64-apple-darwin.tar.gz"
+[[Binaryen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b700cd6c29237b96df860172114ae57ca77c0910"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "f02c0f8d5e4b11f76310030b07b81a11f11387cd64d24083ec761f2de44e86b9"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[Binaryen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f80abae04966e422b606d687dd659b85134474e4"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "b09b25409d0147cc4b7bf905b04e92bd02b9fb97cf9722017ffe42278a21a78d"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[Binaryen]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8017a0c8b92e12e742a6821dbe1e1ed9e6ffa643"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "5a894c33e73dfbb7e82c33d0114997acba114aea32e3bcdbf5b97b4948abe588"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.aarch64-linux-musl-cxx03.tar.gz"
+[[Binaryen]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c7834e9c667b1b5c3f38286afca825cc3272f5b0"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "77a45b549e60f06421cc609f7561035c4b2293f3b65277e113793f47be60e963"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.aarch64-linux-musl-cxx11.tar.gz"
+[[Binaryen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "738605ca9a58743d47f701ba9f65ad6e75d01e86"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "c6eec65a33e9b318d995e6dd81a0b857c97acb177534341e5ef8897539dc8726"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[Binaryen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fbcda9107d7c0a4da55bef1ac529ef6f9b860d93"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "7f37d69515db9e45b626b82369b963138b42ed05aeb604758d7db0b9ed161c37"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[Binaryen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2b9054afa7bb33b38eec10318bba45be4489c83"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "5c20d223d76ef38b4da25c513cbbaf0dcf4567c1c59982852655e496cb2df324"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[Binaryen]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "19577b99a1bfa58f5407dfd6d4cccc9cf6400e7a"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "30960d95eaeb3ccdc7bfa70c2cacdffbac3e2b598cd19ee5a7a8ee582fa4df23"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[Binaryen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4a52d117f30121109673669ce323454e727ff24a"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "8fd40d98f80a17450d2f7cb1c58bf54fdcd5db9671cb374d2a2ae6ff6909cbc6"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Binaryen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b728a77a0a396becc21c6e1da58974e03f88a6ff"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "457713e39a62481725da2a95a58d46a3ffb64b2621bc3748ffb817d0fac5ad82"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Binaryen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "7f83b1e66c3f41f108d495443d879dc6365e3da8"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "98555217d4a9c6df93ef29839a496797dc010a1af8fd76466d0cccb2124df766"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Binaryen]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6a9dc5681cc4e73af95bd68b158221d0290dd4a3"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "c4c888ad8a9acd28eab8671be13deb13d1dc4b3494e6c37c351548f809543400"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3f97fe9e653f9cf6529bac2d9a411a8b6eb58b9b"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "199bd371470718afe6f1159f2c59a4fd5194e87f7486e0f89ddc4638aaaee634"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-linux-gnu-cxx03.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f8511d97df3e6136f177d1a21af280d89ff6638"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "460b95603759b2e77c359c3e94e4068e95ab58adf63ae7e39a57767b270df2e3"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-linux-gnu-cxx11.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "29200eb82e4186503ca9c4dde6a0fe858092cf5c"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "9b11338e36217c40cbe97c466769f03178d8cda77b00644f9a97dc67687690ed"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-linux-musl-cxx03.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "163b528e39b0c4229f81a2441802d9604787a78e"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "b865b37a1adcb193f4ee14600995b9fe46d1dfaa7c499377933ac4122f0588ab"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-linux-musl-cxx11.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b708e9e473a9b5dec5b6d9af8586d54d2224c57b"
+os = "windows"
+
+    [[Binaryen.download]]
+    sha256 = "48f188fc86befac350f82010bde3e44d196dc05595fafa6b9d17144f915c96a8"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-w64-mingw32-cxx03.tar.gz"
+[[Binaryen]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56c8e412f8dabb8f284bfb8529d44aab5077ff8e"
+os = "windows"
+
+    [[Binaryen.download]]
+    sha256 = "f770f1cbea1b7bb8c834e0b8e9db3ede8c04ae63cf5f1a7d69cf93010d26d2cd"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.i686-w64-mingw32-cxx11.tar.gz"
+[[Binaryen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "71fca15df29d64375b987fa9b75b2c83201f8ea2"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "8fa692bfa8c48bee08e8d5acb27092084c08b7183d7979d08dcc3bad7e82be56"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[Binaryen]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56e8ed41b607197532969353c7567c4e802c6744"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "0c4c145e9d28411684fb016b11b9a844a6019489f7a138d47e08ef8b95133ce9"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+git-tree-sha1 = "570013d6aa7eaf85259b12d0974aeb38b42e8b88"
+os = "macos"
+
+    [[Binaryen.download]]
+    sha256 = "86a9b93507d63070594fb7e1c7e65a9f7c1b18f13151d8956ec0692bdefb70e4"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-apple-darwin.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "98b25f79941d98fb5cc694eabef407d8d6252019"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "639c8264225f632d89f86480cd45a63c13714697fa22351a4867e73857c02f3c"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5069d800fd95cfb53e2fcb9ef7fe1a90e8eabfd6"
+libc = "glibc"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "144829a5f92c8370452f37f7e91ab432d5124c5f38e5c233693aa54daa924576"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "11c7ac549f7272ac1f39d1777983ec96131f6cdf"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "80b4a7b0379f005595b497ee583b3d4014db597fe63b4c8563bec60b49fe58a0"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-linux-musl-cxx03.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b73a1c069189247f870e67f252a86e49b5289ffe"
+libc = "musl"
+os = "linux"
+
+    [[Binaryen.download]]
+    sha256 = "220dcedbdc7af18868acf4ec1cd4dcdfc66fd3755024a398042ea3e0889fa4a6"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-linux-musl-cxx11.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+git-tree-sha1 = "faf42eb70f440240e9f4de9b547d45104fa9695f"
+os = "freebsd"
+
+    [[Binaryen.download]]
+    sha256 = "b3b0d36302d94ac13b17211faf9e018a611bf072822d5f397423392c9c941b0f"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-unknown-freebsd.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "af5575c33a3ba322da85807e3e445ac7ccfa8dcc"
+os = "windows"
+
+    [[Binaryen.download]]
+    sha256 = "2538e727f51868d33d5c7552c50e7e314055d787e2a6336d9fe3dfe2bcbae113"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Binaryen]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "500adc33c72fa8d32c76f2dc82b8698f64d69406"
+os = "windows"
+
+    [[Binaryen.download]]
+    sha256 = "26e4491bbde7bbe9f0c792c3cd3b3ec5b9bc3d3e403900797f402daf00af3e8c"
+    url = "https://github.com/JuliaBinaryWrappers/Binaryen_jll.jl/releases/download/Binaryen-v0.114.0+0/Binaryen.v0.114.0.x86_64-w64-mingw32-cxx11.tar.gz"
